@@ -1,4 +1,4 @@
-# Role of the epsilon sybunit as an ATP sensor
+# Isolated subunit epsilon
 
 ## Abstract
 
